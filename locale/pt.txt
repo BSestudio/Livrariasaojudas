@@ -1,0 +1,70 @@
+#: locale=pt
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Loja Santuário São Judas 
+
+## Skin
+
+### Multiline Text
+HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7.759562841530053vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003300;font-size:7.76vh;font-family:'Otama.ep';"><B>Café e livraria São Judas Tadeu</B></SPAN></SPAN></DIV></div>
+HTMLText_04FFCC2C_1216_7593_41A3_D345BDE131A2_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:center;font-size:7.759562841530053vh;"><SPAN STYLE="display:inline-block; letter-spacing:0vh; white-space:pre-wrap;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#003300;font-size:7.76vh;font-family:'Otama.ep';"><B>Café e livraria São Judas Tadeu</B></SPAN></SPAN></DIV></div>
+HTMLText_9BA831B8_B99D_9FF3_41C0_D517D42D1993.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:15.000000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:12px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;font-family:'Montserrat';"><B>    Se você deseja apoiar o</B></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://santacasasorocaba.com.br/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:15px;font-family:'Montserrat';"><B> </B></SPAN><SPAN STYLE="color:#003300;font-size:15px;font-family:'Montserrat';"><B><U>Hospital da Divina Misericórdia</U></B></SPAN></A></SPAN><SPAN STYLE="color:#333333;font-size:15px;font-family:'Montserrat';"><B> através da compra de produtos, considere visitar a loja do Santuário de São Judas Tadeu.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15.000000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;font-family:'Montserrat';"><B>     Ao fazer compras lá, você estará contribuindo para essa nobre causa. A loja do santuário oferece uma variedade de itens, como camisetas, acessórios religiosos, livros e outros produtos relacionados à fé e à devoção a São Judas Tadeu.     </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15.000000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;font-family:'Montserrat';"><B>   Além disso, o café e livraria do Santuário oferece um ambiente calmo e acolhedor onde você pode desfrutar de um delicioso café, alimentos e bebidas, proporcionando uma pausa tranquila em seu dia. </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:15.000000000000002px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:15px;font-family:'Montserrat';"><B>     Ao comprar nessa loja, você estará ajudando a promover a saúde e o bem-estar das pessoas atendidas pelo Hospital da Divina Misericórdia. Junte-se a essa causa e faça a diferença através do seu generoso apoio.</B></SPAN></SPAN></DIV></div>
+HTMLText_9BA831B8_B99D_9FF3_41C0_D517D42D1993_mobile.html = <div style="text-align:left; color:#000; "><DIV STYLE="text-align:justify;font-size:7.500000000000001px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-size:6px;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7.5px;font-family:'Montserrat';"><B>    Se você deseja apoiar o</B></SPAN><SPAN STYLE="color:#f3a22e;"><A HREF="https://santacasasorocaba.com.br/" TARGET="_blank" STYLE="text-decoration:none; color:inherit;"><SPAN STYLE="font-size:7.5px;font-family:'Montserrat';"><B> </B></SPAN><SPAN STYLE="color:#003300;font-size:7.5px;font-family:'Montserrat';"><B><U>Hospital da Divina Misericórdia</U></B></SPAN></A></SPAN><SPAN STYLE="color:#333333;font-size:7.5px;font-family:'Montserrat';"><B> através da compra de produtos, considere visitar a loja do Santuário de São Judas Tadeu.</B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:7.500000000000001px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7.5px;font-family:'Montserrat';"><B>     Ao fazer compras lá, você estará contribuindo para essa nobre causa. A loja do santuário oferece uma variedade de itens, como camisetas, acessórios religiosos, livros e outros produtos relacionados à fé e à devoção a São Judas Tadeu.     </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:7.500000000000001px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7.5px;font-family:'Montserrat';"><B>   Além disso, o café e livraria do Santuário oferece um ambiente calmo e acolhedor onde você pode desfrutar de um delicioso café, alimentos e bebidas, proporcionando uma pausa tranquila em seu dia. </B></SPAN></SPAN></DIV><DIV STYLE="text-align:justify;font-size:7.500000000000001px;"><SPAN STYLE="display:inline-block; letter-spacing:0px; white-space:pre-line;color:#000000;font-family:Arial, Helvetica, sans-serif;"><SPAN STYLE="color:#333333;font-size:7.5px;font-family:'Montserrat';"><B>     Ao comprar nessa loja, você estará ajudando a promover a saúde e o bem-estar das pessoas atendidas pelo Hospital da Divina Misericórdia. Junte-se a essa causa e faça a diferença através do seu generoso apoio.</B></SPAN></SPAN></DIV></div>
+
+### Tooltip
+IconButton_055968C2_471F_36F0_41D0_1D4E06203755.toolTip = Apoie 
+IconButton_06048A81_471B_1573_41C3_397090E146D9.toolTip = You Tube
+IconButton_06EEFB45_471B_2BF3_41CF_BE33891AAC26.toolTip = Whatsapp
+IconButton_070DB186_471D_3771_41D0_B8635EB7577C.toolTip = Cafeteria
+IconButton_07507CB8_4717_6E91_41BF_DDF65032FF98.toolTip = Facebook
+IconButton_16D484CB_46EB_1EF0_419C_E59941755D68.toolTip = Produtos
+IconButton_789C70F1_4735_1690_41BB_20D41E3AFC42.toolTip = Localização
+IconButton_79A36420_473B_1DB1_41CA_881C0A1E5529.toolTip = Instagran
+
+## Media
+
+### Title
+album_177C7F47_46F5_2BF0_4189_04A080695ABA.label = PRODUTOS
+album_177C7F47_46F5_2BF0_4189_04A080695ABA_0.label = DANY_oculos-0857 ok
+album_177C7F47_46F5_2BF0_4189_04A080695ABA_1.label = DANY_oculos-0867-Edit
+album_177C7F47_46F5_2BF0_4189_04A080695ABA_2.label = DANY_oculos-0903 ok
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF.label = TEste São Judas
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_0.label = RANCHO PROT-9181-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_1.label = RANCHO PROT-9296-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_10.label = rancho-2641-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_2.label = RANCHO PROT-9359-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_3.label = RANCHO PROT-9437-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_4.label = RANCHO PROT-9453-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_5.label = rancho-2193-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_6.label = rancho-2218 Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_7.label = rancho-2425-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_8.label = rancho-2489-Edit
+album_5A28D6BE_47ED_7A91_41CC_76D53706BEBF_9.label = rancho-2538-Edit
+panorama_4EA2AEFC_45C4_D68F_41CE_CBB4B4980428.label = Loja São Judas - 01
+panorama_4FD0FB6F_45C4_FF89_41A3_D262CC0CB61D.label = Loja São Judas - 02
+panorama_4FD4DAC3_45C4_3EF9_41CD_96A342E49F63.label = Loja São Judas - 11
+panorama_4FD4E579_45C4_4B89_41C9_4A576560288E.label = Loja São Judas - 09
+panorama_4FD50065_45C4_49B9_41A5_1B4AE1D1571F.label = Loja São Judas - 10
+panorama_4FD50B18_45C4_3F97_41BD_2FDB497D0AB6.label = Loja São Judas - 05
+panorama_4FD52602_45C4_C97B_41A6_6672DB79735B.label = Loja São Judas - 03
+panorama_4FD54AFD_45C4_7E89_41C2_757F2DD661E3.label = Loja São Judas - 08
+panorama_4FD55586_45C4_4B78_41C5_602601372CAE.label = Loja São Judas - 06
+panorama_4FD56085_45C4_4979_41CC_4126BFDC2C3F.label = Loja São Judas - 07
+panorama_4FD5C078_45C4_C997_41CF_276E9AA0192D.label = Loja São Judas - 04
+
+## Action
+
+### URL
+LinkBehaviour_0727D20F_471D_F58F_41B3_FC6FDAAE35D9.source = https://www.youtube.com/@SaoJudasTadeuSantuario
+LinkBehaviour_0738D3F0_4735_1A91_41A2_D26FFF06993B.source = https://www.instagram.com/adoracaoperpetua/
+LinkBehaviour_1C8D751F_491B_3F8F_41BE_F1DB8D315C9C.source = https://www.youtube.com/@SaoJudasTadeuSantuario
+LinkBehaviour_1C8DA51E_491B_3F91_41CF_73E586AB2A62.source = https://www.facebook.com/AdoracaoPerpetua
+LinkBehaviour_1C92F520_491B_3FB1_41D1_06662A4462F5.source = https://www.google.com/maps/contrib/115940110921140908084/photos/@-23.5174802,-47.5057667,3a,75y,44.06h,90t/data=!3m7!1e1!3m5!1sAF1QipNShXb7jIXRfqaeknd6r8sBKx-EjPrcfD8txJ38!2e10!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipNShXb7jIXRfqaeknd6r8sBKx-EjPrcfD8txJ38%3Dw365-h260-k-no-pi-20-ya335.93918-ro-0-fo100!7i5952!8i2976!4m3!8m2!3m1!1e1?entry=ttu
+LinkBehaviour_1C93251E_491B_3F91_41C2_F81D18323B37.source = https://www.instagram.com/adoracaoperpetua/
+LinkBehaviour_5AA715E6_4819_57BD_4167_427C66BD6FB4.source = https://api.whatsapp.com/send?phone=5515159969473&text=Vim%20atrav%C3%A9s%20do%20site,%20poderia%20me%20ajudar%20?
+LinkBehaviour_780F0D48_4717_2FF1_41CD_7B1AEB82FBEA.source = https://www.facebook.com/AdoracaoPerpetua
+LinkBehaviour_78B6C013_4735_1597_41CE_0151208C95A5.source = https://www.google.com.br/maps/place/Artigos+Religiosos+Cat%C3%B3licos+%7C+S%C3%A3o+Judas/@-23.5174882,-47.5058019,3a,75y,26.44h,89.51t/data=!3m8!1e1!3m6!1sAF1QipPygyZwF_L-L4b5AvtOIs2GR-nwChKqoyQ9z54h!2e10!3e11!6shttps:%2F%2Flh5.googleusercontent.com%2Fp%2FAF1QipPygyZwF_L-L4b5AvtOIs2GR-nwChKqoyQ9z54h%3Dw203-h100-k-no-pi-0-ya110.76506-ro-0-fo100!7i5952!8i2976!4m13!1m2!2m1!1sLIVRARIA+SAO+JUDAS!3m9!1s0x94c58b3fade3e45b:0x86b5b4fc982bec8b!8m2!3d-23.5174339!4d-47.5057421!10e5!14m1!1BCgIgARICGAI!15sChJMSVZSQVJJQSBTQU8gSlVEQVNaFCISbGl2cmFyaWEgc2FvIGp1ZGFzkgEVcmVsaWdpb3VzX2dvb2RzX3N0b3Jl4AEA!16s%2Fg%2F11c6dd_rdf?entry=ttu
